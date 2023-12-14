@@ -53,8 +53,12 @@ form {
   margin: 20px 0;
   padding: 15px;
   font-size: 18px;
-  line-height: 2;
+  line-height: 1.5;
   border-left: solid 3px #c54c82;
+}
+
+strong {
+  color: #c54c82;
 }
 
 footer {
